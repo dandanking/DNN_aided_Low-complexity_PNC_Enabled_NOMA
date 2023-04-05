@@ -1,5 +1,3 @@
-%  author: ph014@ie.cuhk.edu.hk
-%  date:   April 20, 2015 / Modified 2020/11/16
 %  Main Program
 %  Note: difference phase offsets between users affect decoding performance
    
