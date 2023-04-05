@@ -1,0 +1,11 @@
+
+NCMA Txdata
+* FFT: 64, Data Tone: 48, Pilots: 4, DC: 1
+
+Format
+* A: STS       LTS        DATA
+* B:      STS       LTS   DATA
+
+Note:
+*_16S.dat: tx samples
+*_intrlv.datb: encoded bits (after interleaver)
